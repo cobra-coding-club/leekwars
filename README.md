@@ -163,13 +163,17 @@ Avoir un poireau qui utilise différentes armes et puces c'est bien, avoir une s
 
 Maintenant que vous comprennez les éléments principaux de LeekWars, essayez de mettre en place une stratégie qui éliminera tous vos adversaires 🔫
 
-Voici quelques exemples, mais n'hésitez pas à élaborer votre propre méthode:
+Voici quelques exemples, mais n'hésitez pas à élaborer votre propre méthode :
 - Utiliser des puces de protection ([casque](https://leekwars.com/market/helmet), [mur](https://leekwars.com/market/wall)...) pour absorber des dégâts en foncant sur l'ennemi avec un [fusil à pompe](https://leekwars.com/market/shotgun) ou un [glaive](https://leekwars.com/market/broadsword) 🔪, qui font beaucoup de dégâts au corps à corps
-- À l'inverse, jouer sur la longue distance en tirant sur l'ennemi puis en s'éloignant le plus possible (avec une puce comme les [bottes de cuir](https://leekwars.com/market/leather_boots) 👢 et des caractéritiques avec beaucop de points de mouvement, il ne pourra peut-être pas vous rattraper 🏃)
+- À l'inverse, jouer sur la longue distance en tirant sur l'ennemi puis en s'éloignant le plus possible (avec une puce comme les [bottes de cuir](https://leekwars.com/market/leather_boots) 👢 et des caractéritiques avec beaucoup de points de mouvement, il ne pourra peut-être pas vous rattraper 🏃)
 - Gardez une statégie simple, mais posez vous les bonnes questions pour effectuer vos actions et notamment pour activer vos puces:
   - Est-ce nécessaire de se soigner si il ne vous reste pas beaucoup de points de vie (le poireau adverse vous tuera au prochain tour de toute facon) alors que vous pourriez prendre des [protéines](https://leekwars.com/market/protein) et tenter de porter un dernier coup létal à l'ennemi ?
-  - Pourquoi se protéger de dégâts avec le [casque](https://leekwars.com/market/helmet) 🪖 si l'ennemi n'est pas suffisamment proche de vous pour vous toucher ?
+  - Pourquoi se protéger des dégâts avec le [casque](https://leekwars.com/market/helmet) 🪖 si l'ennemi n'est pas suffisamment proche de vous pour vous toucher ?
   - Utilisez le terrain à votre avantage ! Si vous avez des puces de combat comme la [décharge électrique](https://leekwars.com/market/shock), elles sont activables même à travers les obstables, alors essayez de vous cacher des tirs adverses tout en faisant des dégâts avec vos puces 🔥
+
+Evidemment, il est impossible d'activer toutes ces stratégies à la fois. Cela demanderait trop d'actions, et vous ne pouvez pas équiper une quantité infinie d'armes ou de puces.
+
+Ce que vous pouvez faire, en revanche, est de déterminer quel style de jeu est celui qui vous plait le plus, ou quel est celui avec lesquels vous avez de meilleurs résultats, et essayer d'anticiper au maximum les stratégies que pourraient avoir vos ennemis et la réponse de votre poireau à ces dernières !
 
 ## Étape 6 : L'étape 6️⃣
 
