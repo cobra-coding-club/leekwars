@@ -123,7 +123,7 @@ Observons ce que nous avons là :
 > 💡 Vous pouvez passer votre souris sur les différentes fonctions et mot-clés afin d'obtenir plus d'informations, tels qu'une explication de la fonction ou d'indices vous permettant d'améliorer votre code. \
 > Qui sait, peut-être que les créateurs du site ont pensé à tout, et qu'ils ont caché dans ces indices des astuces pour améliorer votre code...
 
-:warning: Attention ! L'ensemble du code que vous avez sous les yeux est exécuté **entièrement** à chaque tour.
+⚠️ Attention ! L'ensemble du code que vous avez sous les yeux est exécuté **entièrement** à chaque tour.
 
 Vous vous souvenez quand je vous disais que vos vous pouviez améliorer la quantité d'actions informatiques à l'aide de vous statistiques ? Vous pourrez observer ici que chaque fonction possède un nombre d'actions requises. Vous devez pouvoir terminer votre tour sans arriver à court d'opérations, ou votre code s'arrêtera et ce sera immédiatement au tour de votre adversaire !
 
@@ -132,7 +132,7 @@ Vous vous souvenez quand je vous disais que vos vous pouviez améliorer la quant
 > - [Découvrir le LeekScript](https://leekwars.com/encyclopedia/fr/Tutoriel)
 > - [Documentation](https://leekwars.com/help/documentation)
 
-:face_with_monocle: Le lien de découverte contient même des tutoriels, avec des quiz qui rapporteront un trophée si vous les terminez tous. Cela fait au moins trois raisons de cliquer sur ce lien !
+🧐 Le lien de découverte contient même des tutoriels, avec des quiz qui rapporteront un trophée si vous les terminez tous. Cela fait au moins trois raisons de cliquer sur ce lien !
 
 Grâce à ces exercices, vous découvrirez les notions de base de la programmation : fonctions, boucles, variables... cela vous donnera un solide bagage sur lequel vous pourrez vous appuyer pour développer vos stratégies !
 
@@ -144,7 +144,7 @@ Nous allons vous donner une première piste pour l'améliorer : actuellement, vo
 
 C'est dommage, vous n'utilisez pas tous les **points d'action** de votre poireau. Et si vous pouviez attaquer plusieurs fois par tour ? 🤔
 
-> 💡 Indice: vous pouvez utiliser une boucle pour répéter une action plusieurs fois. \
+> 💡 Indice: vous pouvez utiliser une boucle pour répéter une action plusieurs fois.\
 > A l'aide d'une variable et de la fonction [getTotalTP](https://leekwars.com/help/documentation/getTotalTP), vous pourriez établir un compteur pour savoir s'il vous reste suffisamment de points d'action pour attaquer à nouveau !
 
 🔧 Pour éviter d'avoir à tester votre code face à un vrai ennemi et donc de perdre des points et des combats inutilement, vous pouvez utiliser la fonctionnalité `Tester` disponible dans l'éditeur, vous permettant de lancer un combat factice contre une IA pré-programmée. Cela vous permet de voir si votre code fonctionne correctement !
@@ -155,9 +155,22 @@ Vous pouvez enchaîner quelques combats, profiter de vos victoires puis vous rep
 
 ## Étape 4 : Montée de niveau rime avec nouveaux pouvoirs ❤️‍🔥
 
-TODO: Expliquer les différents items du market et leur pertinence: armes avec différentes range/damage/fire, potions avec différents effets et chips
+Améliorer votre poireau passe également par des choix judicieux à faire dans le [marché](https://leekwars.com/market/) 🛒
 
-Expliquer leur intégration dans le code
+![Marché](/assets/market.png)
+
+Ici, vous trouverez:
+- Des armes qui ont chacunes leurs caractéristiques (puissantes au corps à corps, visée en ligne droite, à distance...)
+- Des puces que vous vous pouvez utiliser en combat pour vous donner différents boosts (soigner des dég&ats, en absorber, attaquer les ennemis...)
+
+Prenez le temps de parcourir ceux qui vous sont accessible et d'en acheter quelques uns 🛍️
+
+Vous pouvez ensuite les intégrer dans votre code 💻, renseignez-vous dans la documentation, ces fonctions en particulier vous seront utiles:
+- [setWeapon](https://leekwars.com/help/documentation/setWeapon) pour changer entre vos armes équipées
+- [canUseChip](https://leekwars.com/help/documentation/canUseChip) pour vérifier si une puce est utilisable
+- [useChip](https://leekwars.com/help/documentation/useChip) ou [useChipOnCell](https://leekwars.com/help/documentation/useChipOnCell) pour utiliser une puce
+
+> 💡 La majorité de ces fonctions prennent un nombre qui représente l'ID de l'arme ou de la puce. Plutôt que de renseigner directement un nombre, utilisez des valeurs déjà définies comme [`CHIP_ARMOR`](https://leekwars.com/help/documentation/CHIP_ARMOR) ou `WEAPON_SHOTGUN`(https://leekwars.com/help/documentation/WEAPON_SHOTGUN), votre code sera plus lisible et compréhensible 😄
 
 ## Étape 5 : Améliorons notre IA 🧠
 
