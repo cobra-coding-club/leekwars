@@ -8,7 +8,7 @@ Faisons nos premiers pas dans l'intelligence artificielle ensemble à l'aide de 
 
 > 🚀 Cette activité est encadrée par le Coding Club d'Epitech.\
 > ❓ Si vous avez des questions ou que vous bloquez sur l'une des étapes, vous pouvez demander de l'aide aux autres participants autour de vous (l'entraide est primordiale à Epitech 😄).\
-> S'ils ne parviennent pas à vous débloquer, n'hésitez pas à appeler un *Cobra*, identifiables à l'aide de leurs super polos ⭐
+> S'ils ne parviennent pas à vous débloquer, n'hésitez pas à appeler un *Cobra*, identifiables à l'aide de leurs super polos ⭐ (ou pas... ça dépendra !)
 
 ## Étape 0 : Créons notre premier poireau
 
@@ -24,7 +24,7 @@ Cliquez sur le bouton "S'inscrire" (ou `Sign Up`) en haut à droite de la page.
 
 Renseignez ensuite le nom de votre poireau, et ajoutez des éléments de personnalisation à votre guise. Vous pouvez par exemple changer la couleur des feuilles de votre poireau et lui ajouter un chapeau 🎩
 
-## Étape 1 : Jettons un oeil à l'interface
+## Étape 1 : Jetons un oeil à l'interface
 
 Nous voici désormais sur une magnifique interface ! Voyons voir ce qu'on a là...
 
@@ -96,6 +96,8 @@ En revanche, mon poireau n'a pas gagné beaucoup d'expérience. Il faudra gagner
 
 > 🏆 J'ai également gagné des trophées. Ces derniers sont des succès que vous pouvez gagner en accomplissant différentes actions dans le jeu. \
 > Leur utilité principale ? Aucune, si ce n'est le **flex** bien sûr !
+
+Aucune, vraiment ? Lorsque vous revenez sur votre profil, regardez en bas à gauche si vous ne voyez pas une icône de coffre. Ces trophées, ou d'autres accomplissements que vous effectuez pourraient vous octroyer de savoureuses récompenses... 🎁
 
 Nous pourrions nous amuser à lancer des combats en boucle de la sorte, jusqu'à ce que notre poireau finisse par gagner ou monter de niveau. Mais on ne vous conseille pas de faire cela sans toucher au **programme** de votre poireau, et ce pour deux raisons :
 
