@@ -26,7 +26,7 @@ Renseignez ensuite le nom de votre poireau, et ajoutez des éléments de personn
 
 ## Étape 1 : Jettons un oeil à l'interface
 
-Nous voici désormais sur un magnifique interface ! Voyons voir ce qu'on a là...
+Nous voici désormais sur une magnifique interface ! Voyons voir ce qu'on a là...
 
 ![Interface](./assets/interface.png)
 
@@ -46,13 +46,13 @@ Au centre de l'écran, nous pouvons retrouver une synthèse de notre poireau et 
 
 Nous voyons également notre inventaire : nous possédons actuellement une arme, notre bon vieux `pistolet` ! 🔫
 
-Enfin, à gauche de l'écran, il existe différents boutons : `Editeur`, `Potager` et `Marché` sont les plus importants et sont ceux dans lesquels vous passerez le plus de temps :slight_smile:
+Enfin, à gauche de l'écran, il existe différents boutons : `Editeur`, `Potager` et `Marché` sont les plus importants et sont ceux dans lesquels vous passerez le plus de temps :smile:
 
 > 💡 Nous vous conseillons de visiter les différentes pages du jeu pour vous familiariser avec l'interface. Vous y découvrirez peut-être déjà quelques fonctionnalités de LeekWars que nous n'avons pas encore expliqué...
 
 ⚠️ Nous sommes brièvement passés sur le système de statistiques sans plus de détails.
 
-Pour faire court, votre poireau possède un niveau (il commence au niveau 1), et chaque montée de niveau lui donne un **point de capital**. Vous pouvez investir chaque point de capital dans une statistique, permettant d'augmenter différentes stats telles que sa vie, sa puissance, sa vitesse mais encore différents aspects "programmatiques" tels que la quantité de mémoire et la puissance du processeur qui exécutera votre code en combat !
+Pour faire court, votre poireau possède un niveau (il commence au niveau 1), et chaque montée de niveau lui donne un **point de capital**. Vous pouvez investir chaque point de capital dans une statistique, permettant d'augmenter différentes stats telles que sa vie, sa puissance, sa vitesse mais encore différents aspects "programmatiques" tels que la quantité de mémoire à votre disposition, ou encore la quantité d'opérations informatiques disponibles à chaque tour pendant le combat.
 
 > 🚀 Vous disposez de 50 points de capital. Vous pouvez les investir dès maintenant, mais nous vous recommandons de continuer à découvrir le jeu avant de les utiliser, afin de savoir quelles statistiques vous souhaitez améliorer en priorité.
 
@@ -120,6 +120,10 @@ Observons ce que nous avons là :
 
 > 💡 Vous pouvez passer votre souris sur les différentes fonctions et mot-clés afin d'obtenir plus d'informations, tels qu'une explication de la fonction ou d'indices vous permettant d'améliorer votre code. \
 > Qui sait, peut-être que les créateurs du site ont pensé à tout, et qu'ils ont caché dans ces indices des astuces pour améliorer votre code...
+
+:warning: Attention ! L'ensemble du code que vous avez sous les yeux est exécuté **entièrement** à chaque tour.
+
+Vous vous souvenez quand je vous disais que vos vous pouviez améliorer la quantité d'actions informatiques à l'aide de vous statistiques ? Vous pourrez observer ici que chaque fonction possède un nombre d'actions requises. Vous devez pouvoir terminer votre tour sans arriver à court d'opérations, ou votre code s'arrêtera et ce sera immédiatement au tour de votre adversaire !
 
 > Nous obtenons ici des liens très utiles, contenant différentes informations à propos des règles du jeu, du langage de programmation de LeekWars (le LeekScript ! 🍏) ainsi que des différentes fonctions que nous avons à notre disposition. \
 > Vu que ces liens sont en anglais, voici leurs équivalents français ! :flag_fr: Ce sera sans doute plus simple comme ça 😉
