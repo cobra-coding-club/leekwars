@@ -60,13 +60,49 @@ Assez lu ? Ca tombe bien, tous dans le ring maintenant !
 
 ## Etape 2 : Lançons nos premiers combats
 
-TODO: Décrire comment lancer un combat, comment le regarder
+Passons sans plus tarder aux combats, ce pourquoi nous sommes tous ici (et la programmation aussi, évidemment. Mais surtout les combats :crossed_swords:)
 
-Expliquer le système de points par tour
+Rendez vous dans la section `Potager`. Vous devriez voir apparaitre votre poireau, ainsi que d'autres poireaux en dessous de celui-ci. Ce sont vos adversaires ! Cliquez sur n'importe lequel d'entre eux pour lancer un combat !
 
-Expliquer l'intérêt de regarder les combats pour améliorer son IA
+Une fenêtre s'ouvre alors. Vous pouvez observer le combat entre vous et votre adversaire.
 
-Finir la partie avec les récompenses du combat et un encouragement à améliorer son programme
+![Combat](./assets/combat.png)
+
+> :bulb: Vous avez accès à différentes informations sur cet écran, en plus de voir le combat. Cela pourra vous être très utile lorsque vous commencerez à améliorer le programme de votre poireau !
+
+Tour à tour, nous voyons les actions de notre poireau et de celui de notre ennemi s'effectuer : on voit qu'ils se rapprochent jusqu'à être à une distance assez proche, puis s'échangent des coups jusqu'à ce que mort s'en suive.
+
+Vous avez gagné ? Félicitations ! :trophy: \
+Vous avez perdu ? Dommage... :cry:
+
+Ce que ce combat vous a surtout appris, c'est une nouvelle notion du jeu : le mouvement et les actions.
+
+> :bulb: De base, votre poireau possède 3 points de mouvement et 10 points d'action. \
+> Cela signifie qu'il peut se déplacer de 3 cases par tour, et effectuer des actions valant un total de 10 points maximum. Chaque action possède son nombre de points requis !
+
+Il est très important d'**observer** le comportement de votre poireau : cela vous aidera à comprendre son comportement. 
+
+Lorsqu'une situation ne se passe pas comme prévu, vous pourrez vous baser sur ce que vous avez vu pour essayer de déterminer le problème (indice : il viendra très certainement de votre code :thinking:)
+
+En plus de l'évolution de votre rang, votre combat vous octroie différentes récompenses, et ce même si vous perdez. Ne vous inquiétez pas, ce premier combat vous est bénéfique même si vous ne l'avez pas gagné. :wink:
+
+Jettons un oeil à l'interface suivant :
+
+![Summary](./assets/summary.png)
+
+J'ai perdu :sob: mais cela ne m'a pas empêhé de gagner des Habs, la monnaie dont on parlait tout à l'heure ! :moneybag:
+
+En revanche, mon poireau n'a pas gagné beaucoup d'expérience. Il faudra gagner le combat pour cela !
+
+> :trophy: J'ai également gagné des trophées. Ces derniers sont des succès que vous pouvez gagner en accomplissant différentes actions dans le jeu. \
+> Leur utilité principale ? Aucune, si ce n'est le **flex** bien sûr !
+
+Nous pourrions nous amuser à lancer des combats en boucle de la sorte, jusqu'à ce que notre poireau finisse par gagner ou monter de niveau. Mais on ne vous conseille pas de faire cela sans toucher au **programme** de votre poireau, et ce pour deux raisons :
+
+- Même si vous gagnez les premiers combats, vous allez vite vous mesurer à des poireaux dont les programmes ont été modifiés. Et n'oubliez pas : le premier challenge est de réussir à contrer la stratégie de base de votre poireau, c'est donc ce sur quoi seront spécialisés vos adversaires ! Coriace...
+- Vous n'avez droit qu'à **100 combats**. Cette limite se régénère avec le temps (ou en achetant avec vos *Habs*), mais ce seront peut-être vos seuls combats de la journée, ce serait dommage de les gaspiller !
+
+Apprenons à triompher de nos ennemis avant de retourner dans le potager. Et pour cela, rentrons dans le vif du sujet : la **programmation** ! :heart:
 
 ## Etape 3 : Modifions le programme de notre poireau
 
@@ -104,7 +140,7 @@ Regroupez-vous avec les personnes proches de vous pour créer une équipe (une p
 
 Désormais, attendez qu'un Cobra prépare la liste des équipes qui s'affronteront dans le tournoi 😄
 
-> Vous pouvez peaufiner votre statégie pour prendre en compte les combats d'équipe, qui ont une particularité: chaque équipe possède une tourelle sur le champs de bataille.
+> Vous pouvez peaufiner votre statégie pour prendre en compte les combats d'équipe, qui ont une particularité : chaque équipe possède une tourelle sur le champ de bataille.
 
-> Attention, celle-ci à beaucoup de points de vie, mais si vous arriver à la détruire, vous gagnez 🎖️.\
-> Vous pouvez évidemment gagner aussi en tuant tous les poireaux adverses, comme sur les combats individuels.
+> Attention, celle-ci a beaucoup de points de vie, mais si vous arrivez à la détruire, vous gagnez. 🎖️\
+> Vous pouvez également gagner en tuant tous les poireaux adverses, comme sur les combats individuels.
