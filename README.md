@@ -6,7 +6,9 @@ Dans LeekWars, il n'existe pas de contrôles. Le joueur ne joue pas, il programm
 
 Faisons nos premiers pas dans l'intelligence artificielle ensemble à l'aide de LeekWars !
 
-> :rocket: Cette activité est encadrée par le Coding Club d'Epitech.<br/><br/>:question: Si vous avez des questions ou que vous bloquez sur l'une des étapes, vous pouvez demander de l'aide aux autres participants autour de vous (l'entraide est primordiale à Epitech :slight_smile:).<br/>S'ils ne parviennent pas à vous débloquer, n'hésitez pas à appeler un *Cobra*, identifiables à l'aide de leurs super polos :star:
+> 🚀 Cette activité est encadrée par le Coding Club d'Epitech.\
+> ❓ Si vous avez des questions ou que vous bloquez sur l'une des étapes, vous pouvez demander de l'aide aux autres participants autour de vous (l'entraide est primordiale à Epitech 😄).\
+> S'ils ne parviennent pas à vous débloquer, n'hésitez pas à appeler un *Cobra*, identifiables à l'aide de leurs super polos ⭐
 
 ## Etape 0 : Créons notre premier poireau
 
@@ -16,11 +18,11 @@ Vous devriez arriver sur une page qui ressemble à celle-ci :
 
 ![Page d'accueil](./assets/landing.png)
 
-> :bulb: Vous pouvez mettre LeekWars en français en cliquant sur le drapeau.
+> 💡 Vous pouvez mettre LeekWars en français en cliquant sur le drapeau.
 
 Cliquez sur le bouton "S'inscrire" (ou `Sign Up`) en haut à droite de la page.
 
-Renseignez ensuite le nom de votre poireau, et ajoutez des éléments de personnalisation à votre guise. Vous pouvez par exemple changer la couleur des feuilles de votre poireau et lui ajouter un chapeau :tophat:
+Renseignez ensuite le nom de votre poireau, et ajoutez des éléments de personnalisation à votre guise. Vous pouvez par exemple changer la couleur des feuilles de votre poireau et lui ajouter un chapeau 🎩
 
 ## Etape 1 : Jettons un oeil à l'interface
 
@@ -46,13 +48,13 @@ Nous voyons également notre inventaire : nous possédons actuellement une arme,
 
 Enfin, à gauche de l'écran, il existe différents boutons : `Editeur`, `Potager` et `Marché` sont les plus importants et sont ceux dans lesquels vous passerez le plus de temps :slight_smile:
 
-> :bulb: Nous vous conseillons de visiter les différentes pages du jeu pour vous familiariser avec l'interface. Vous y découvrirez peut-être déjà quelques fonctionnalités de LeekWars que nous n'avons pas encore expliqué...
+> 💡 Nous vous conseillons de visiter les différentes pages du jeu pour vous familiariser avec l'interface. Vous y découvrirez peut-être déjà quelques fonctionnalités de LeekWars que nous n'avons pas encore expliqué...
 
-:warning: Nous sommes brièvement passés sur le système de statistiques sans plus de détails.
+⚠️ Nous sommes brièvement passés sur le système de statistiques sans plus de détails.
 
-Pour faire court, votre poireau possède un niveau (il commence au niveau 1), et chaque montée de niveau lui donne un **point de capital**.  Vous pouvez investir chaque point de capital dans une statistique, permettant d'augmenter différentes stats telles que sa vie, sa puissance, sa vitesse mais encore différents aspects "programmatiques" tels que la quantité de mémoire et la puissance du processeur qui exécutera votre code en combat !
+Pour faire court, votre poireau possède un niveau (il commence au niveau 1), et chaque montée de niveau lui donne un **point de capital**. Vous pouvez investir chaque point de capital dans une statistique, permettant d'augmenter différentes stats telles que sa vie, sa puissance, sa vitesse mais encore différents aspects "programmatiques" tels que la quantité de mémoire et la puissance du processeur qui exécutera votre code en combat !
 
-> :rocket: Vous disposez de 50 points de capital. Vous pouvez les investir dès maintenant, mais nous vous recommandons de continuer à découvrir le jeu avant de les utiliser, afin de savoir quelles statistiques vous souhaitez améliorer en priorité.
+> 🚀 Vous disposez de 50 points de capital. Vous pouvez les investir dès maintenant, mais nous vous recommandons de continuer à découvrir le jeu avant de les utiliser, afin de savoir quelles statistiques vous souhaitez améliorer en priorité.
 
 Assez lu ? Ca tombe bien, tous dans le ring maintenant !
 
@@ -92,12 +94,17 @@ Le plus important pour vous à partir de maintenant sera d'avoir un poireau qui 
 
 N'oubliez pas : plus vous combattrez, plus vous monterez en rang, et plus vous affronterez des adversaires coriaces. Ajustez votre stratégie en permanence pour triompher de vos ennemis !
 
-> Désormais, la [documentation](https://leekwars.com/help/documentation) devient votre meilleure amie :wink:
+> Désormais, la [documentation](https://leekwars.com/help/documentation) devient votre meilleure amie 😉
 
-## Et si on faisait un tournoi ?
+## Et si on faisait un tournoi ? 🏆
 
-TODO: Expliquer le principe des tournois
+Quoi de mieux qu'un petit tournoi pour vous départager et élire le meilleur éleveur de poireau de ce Coding Club 🔥
 
-Expliquer le principe des équipes
+Regroupez-vous avec les personnes proches de vous pour créer une équipe (une personne peut le faire sur son profil, puis les autres peuvent la rejoindre en cliquant sur un lien similaire à celui-ci: [https://leekwars.com/team/8740](https://leekwars.com/team/8740), en remplacant l'ID par celui de votre équipe).
 
-On fera un tournoi en fin de journée (voir si c'est possible de faire un tournoi privé)
+Désormais, attendez qu'un Cobra prépare la liste des équipes qui s'affronteront dans le tournoi 😄
+
+> Vous pouvez peaufiner votre statégie pour prendre en compte les combats d'équipe, qui ont une particularité: chaque équipe possède une tourelle sur le champs de bataille.
+
+> Attention, celle-ci à beaucoup de points de vie, mais si vous arriver à la détruire, vous gagnez 🎖️.\
+> Vous pouvez évidemment gagner aussi en tuant tous les poireaux adverses, comme sur les combats individuels.
