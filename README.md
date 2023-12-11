@@ -10,7 +10,7 @@ Faisons nos premiers pas dans l'intelligence artificielle ensemble à l'aide de 
 > ❓ Si vous avez des questions ou que vous bloquez sur l'une des étapes, vous pouvez demander de l'aide aux autres participants autour de vous (l'entraide est primordiale à Epitech 😄).\
 > S'ils ne parviennent pas à vous débloquer, n'hésitez pas à appeler un *Cobra*, identifiables à l'aide de leurs super polos ⭐
 
-## Etape 0 : Créons notre premier poireau
+## Étape 0 : Créons notre premier poireau
 
 Rendez-vous sur le site de [LeekWars](https://leekwars.com/).
 
@@ -110,21 +110,29 @@ TODO: Donner une première piste d'amélioration en guidant vers une première s
 
 Expliquer les concepts basiques de la programmation (variables, conditions, boucles...) en rappelant que les Cobra sont là pour aider
 
-## Etape 4 : Montée de niveau rime avec nouveaux pouvoirs !
+## Étape 4 : Montée de niveau rime avec nouveaux pouvoirs ❤️‍🔥
 
 TODO: Expliquer les différents items du market et leur pertinence: armes avec différentes range/damage/fire, potions avec différents effets et chips
 
 Expliquer leur intégration dans le code
 
-## Etape 5 : Améliorons notre IA
+## Étape 5 : Améliorons notre IA 🧠
 
-TODO: Farmer les combats pour acquérir plus de niveau
+Avoir un poireau qui utilise différentes armes et puces c'est bien, avoir une stratégie c'est mieux !
 
-Expliquer différentes stratégies possibles (distance, tank, heal, etc.)
+Maintenant que vous comprennez les éléments principaux de LeekWars, essayez de mettre en place une stratégie qui éliminera tous vos adversaires 🔫
 
-## Etape 6 : L'étape 6
+Voici quelques exemples, mais n'hésitez pas à élaborer votre propre méthode:
+- Utiliser des puces de protection ([casque](https://leekwars.com/market/helmet), [mur](https://leekwars.com/market/wall)...) pour absorber des dégâts en foncant sur l'ennemi avec un [fusil à pompe](https://leekwars.com/market/shotgun) ou un [glaive](https://leekwars.com/market/broadsword) 🔪, qui font beaucoup de dégâts au corps à corps
+- À l'inverse, jouer sur la longue distance en tirant sur l'ennemi puis en s'éloignant le plus possible (avec une puce comme les [bottes de cuir](https://leekwars.com/market/leather_boots) 👢 et des caractéritiques avec beaucop de points de mouvement, il ne pourra peut-être pas vous rattraper 🏃)
+- Gardez une statégie simple, mais posez vous les bonnes questions pour effectuer vos actions et notamment pour activer vos puces:
+  - Est-ce nécessaire de se soigner si il ne vous reste pas beaucoup de points de vie (le poireau adverse vous tuera au prochain tour de toute facon) alors que vous pourriez prendre des [protéines](https://leekwars.com/market/protein) et tenter de porter un dernier coup létal à l'ennemi ?
+  - Pourquoi se protéger de dégâts avec le [casque](https://leekwars.com/market/helmet) 🪖 si l'ennemi n'est pas suffisamment proche de vous pour vous toucher ?
+  - Utilisez le terrain à votre avantage ! Si vous avez des puces de combat comme la [décharge électrique](https://leekwars.com/market/shock), elles sont activables même à travers les obstables, alors essayez de vous cacher des tirs adverses tout en faisant des dégâts avec vos puces 🔥
 
-Félicitations, vous avez désormais toutes les bases nécessaires pour jouer à LeekWars !
+## Étape 6 : L'étape 6️⃣
+
+Félicitations, vous avez désormais toutes les bases nécessaires pour jouer à LeekWars 🥳
 
 Le plus important pour vous à partir de maintenant sera d'avoir un poireau qui saura faire face à tout type de situation loufoque et d'agir en conséquence.
 
@@ -140,7 +148,7 @@ Regroupez-vous avec les personnes proches de vous pour créer une équipe (une p
 
 Désormais, attendez qu'un Cobra prépare la liste des équipes qui s'affronteront dans le tournoi 😄
 
-> Vous pouvez peaufiner votre statégie pour prendre en compte les combats d'équipe, qui ont une particularité : chaque équipe possède une tourelle sur le champ de bataille.
+> Vous pouvez peaufiner votre statégie pour prendre en compte les combats d'équipe, qui ont une particularité : chaque équipe possède une [tourelle](https://leekwars.com/encyclopedia/fr/Tourelles) sur le champ de bataille.
 
-> Attention, celle-ci a beaucoup de points de vie, mais si vous arrivez à la détruire, vous gagnez. 🎖️\
+> Attention, celle-ci a beaucoup de points de vie, mais si vous arrivez à la détruire, vous gagnez 🎖️\
 > Vous pouvez également gagner en tuant tous les poireaux adverses, comme sur les combats individuels.
