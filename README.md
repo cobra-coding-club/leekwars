@@ -24,11 +24,37 @@ Renseignez ensuite le nom de votre poireau, et ajoutez des éléments de personn
 
 ## Etape 1 : Jettons un oeil à l'interface
 
-TODO: Décrire l'interface et les différents boutons.
+Nous voici désormais sur un magnifique interface ! Voyons voir ce qu'on a là...
 
-Référencer la doc et les différents onglets (programmes, combats, market...)
+![Interface](./assets/interface.png)
 
-Expliquer dès maintenant le système de niveau et de stats, parce que chaque montée de niveau permet de monter une stat
+En haut à droite de l'écran, nous avons diverses informations utiles.
+
+- En premier lieu, nous voyons notre monnaie : cette ressource sera très utile pour améliorer son poireau par la suite ! Elle s'acquiert en gagnant des combats.
+- A coté de la monnaie, nous voyons notre rang. Il s'agit d'un score qui augmente à chaque fois que votre poireau gagne un combat, et qui diminue à chaque fois qu'il en perd un. Plus votre rang est élevé, plus vous affronterez des adversaires coriaces. 
+
+> :bulb: Cela s'apparente à un système de `MMR` ! Vous pouvez en apprendre plus [ici](https://hitmarker.net/what-does-mmr-mean#:~:text=Matchmaking%20Rating%2C%20or%20'MMR',and%20achieved%20a%20minimum%20MMR).
+
+- Les deux icônes à droite sont la boite aux lettres et les notifications, et l'icone à gauche permet d'accéder aux paramètres.
+- Enfin, le bouton `Profil` permet d'accéder à votre page de profil, où vous pouvez ajouter différentes informations sur vous-même.
+
+### Passons au centre de l'écran !
+
+Au centre de l'écran, nous pouvons retrouver une synthèse de notre poireau et de nos statistiques, mais nous pouvons également les améliorer !
+
+Nous voyons également notre inventaire : nous possédons actuellement une arme, notre bon vieux `pistolet` ! :gun:
+
+Enfin, à gauche de l'écran, il existe différents boutons : `Editeur`, `Potager` et `Marché` sont les plus importants et sont ceux dans lesquels vous passerez le plus de temps :slight_smile:
+
+> :bulb: Nous vous conseillons de visiter les différentes pages du jeu pour vous familiariser avec l'interface. Vous y découvrirez peut-être déjà quelques fonctionnalités de LeekWars que nous n'avons pas encore expliqué...
+
+:warning: Nous sommes brièvement passés sur le système de statistiques sans plus de détails.
+
+Pour faire court, votre poireau possède un niveau (il commence au niveau 1), et chaque montée de niveau lui donne un **point de capital**.  Vous pouvez investir chaque point de capital dans une statistique, permettant d'augmenter différentes stats telles que sa vie, sa puissance, sa vitesse mais encore différents aspects "programmatiques" tels que la quantité de mémoire et la puissance du processeur qui exécutera votre code en combat !
+
+> :rocket: Vous disposez de 50 points de capital. Vous pouvez les investir dès maintenant, mais nous vous recommandons de continuer à découvrir le jeu avant de les utiliser, afin de savoir quelles statistiques vous souhaitez améliorer en priorité.
+
+Assez lu ? Ca tombe bien, tous dans le ring maintenant !
 
 ## Etape 2 : Lançons nos premiers combats
 
