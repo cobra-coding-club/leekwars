@@ -170,7 +170,7 @@ Vous pouvez ensuite les intégrer dans votre code 💻, renseignez-vous dans la 
 - [canUseChip](https://leekwars.com/help/documentation/canUseChip) pour vérifier si une puce est utilisable
 - [useChip](https://leekwars.com/help/documentation/useChip) ou [useChipOnCell](https://leekwars.com/help/documentation/useChipOnCell) pour utiliser une puce
 
-> 💡 La majorité de ces fonctions prennent un nombre qui représente l'ID de l'arme ou de la puce. Plutôt que de renseigner directement un nombre, utilisez des valeurs déjà définies comme [`CHIP_ARMOR`](https://leekwars.com/help/documentation/CHIP_ARMOR) ou `WEAPON_SHOTGUN`(https://leekwars.com/help/documentation/WEAPON_SHOTGUN), votre code sera plus lisible et compréhensible 😄
+> 💡 La majorité de ces fonctions prennent un nombre qui représente l'ID de l'arme ou de la puce. Plutôt que de renseigner directement un nombre, utilisez des valeurs déjà définies comme [`CHIP_ARMOR`](https://leekwars.com/help/documentation/CHIP_ARMOR) ou [`WEAPON_SHOTGUN`](https://leekwars.com/help/documentation/WEAPON_SHOTGUN), votre code sera plus lisible et compréhensible 😄
 
 ## Étape 5 : Améliorons notre IA 🧠
 
