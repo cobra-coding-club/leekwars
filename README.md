@@ -60,7 +60,7 @@ Assez lu ? Ca tombe bien, tous dans le ring maintenant !
 
 ## Etape 2 : Lançons nos premiers combats
 
-Passons sans plus tarder aux combats, ce pourquoi nous sommes tous ici (et la programmation aussi, évidemment. Mais surtout les combats :crossed_swords:)
+Passons sans plus tarder aux combats, ce pourquoi nous sommes tous ici (et la programmation aussi, évidemment. Mais surtout les combats) :crossed_swords:
 
 Rendez vous dans la section `Potager`. Vous devriez voir apparaitre votre poireau, ainsi que d'autres poireaux en dessous de celui-ci. Ce sont vos adversaires ! Cliquez sur n'importe lequel d'entre eux pour lancer un combat !
 
@@ -86,11 +86,11 @@ Lorsqu'une situation ne se passe pas comme prévu, vous pourrez vous baser sur c
 
 En plus de l'évolution de votre rang, votre combat vous octroie différentes récompenses, et ce même si vous perdez. Ne vous inquiétez pas, ce premier combat vous est bénéfique même si vous ne l'avez pas gagné. :wink:
 
-Jettons un oeil à l'interface suivant :
+Jetons un oeil à l'interface suivant :
 
 ![Summary](./assets/summary.png)
 
-J'ai perdu :sob: mais cela ne m'a pas empêhé de gagner des Habs, la monnaie dont on parlait tout à l'heure ! :moneybag:
+J'ai perdu :cry: mais cela ne m'a pas empêhé de gagner des Habs, la monnaie dont on parlait tout à l'heure ! :dollar:
 
 En revanche, mon poireau n'a pas gagné beaucoup d'expérience. Il faudra gagner le combat pour cela !
 
