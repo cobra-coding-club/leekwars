@@ -106,9 +106,46 @@ Apprenons à triompher de nos ennemis avant de retourner dans le potager. Et pou
 
 ## Etape 3 : Modifions le programme de notre poireau
 
-TODO: Donner une première piste d'amélioration en guidant vers une première solution
+Rendez-vous dans la section `Editeur`. Vous devriez voir une page qui ressemble à celle-ci :
 
-Expliquer les concepts basiques de la programmation (variables, conditions, boucles...) en rappelant que les Cobra sont là pour aider
+![Code](./assets/code.png)
+
+Quel beau pâté d'instructions nous avons là !
+
+Observons ce que nous avons là :
+
+- Le code en bleu et en gris est ce que nous appelons en programmation des **commentaires**. Ce sont des lignes qui ne seront pas exécutées par le programme, mais qui permettent de donner des informations sur le code. Ici, on nous explique que le code est généré automatiquement, et qu'il s'agit d'un exemple très basique. A notre tour de le modifier.
+- Les instructions en-dessous, aussi appelés **fonctions**, sont des représentations des différentes actions que va effectuer votre poireau. Par exemple, la fonction `moveToward` permet de se déplacer vers un ennemi, et la fonction `setWeapon` permet à votre poireau de changer d'arme.
+- Nous retrouvons également une **variable**, créée à l'aide du mot `let`. Cette variable contient votre ennemi ! Lorsque vous la passez à `moveToward`, cela permet d'indiquer à votre poireau que vous souhaitez qu'il avance vers votre ennemi le plus proche.
+
+> :bulb: Vous pouvez passer votre souris sur les différentes fonctions et mot-clés afin d'obtenir plus d'informations, tels qu'une explication de la fonction ou d'indices vous permettant d'améliorer votre code. \
+> Qui sait, peut-être que les créateurs du site ont pensé à tout, et qu'ils ont caché dans ces indices des astuces pour améliorer votre code...
+
+> Nous obtenons ici des liens très utiles, contenant différentes informations à propos des règles du jeu, du langage de programmation de LeekWars (le LeekScript ! :green_apple:) ainsi que des différentes fonctions que nous avons à notre disposition. \
+> Vu que ces liens sont en anglais, voici leurs équivalents français ! :flag_fr: Ce sera sans doute plus simple comme ça :wink:
+> - [Découvrir le LeekScript](https://leekwars.com/encyclopedia/fr/Tutoriel)
+> - [Documentation](https://leekwars.com/help/documentation)
+
+:face_with_monocle: Le lien de découverte contient même des tutoriels, avec des quiz qui rapporteront un trophée si vous les terminez tous. Cela fait au moins trois raisons de cliquer sur ce lien !
+
+Grâce à ces exercices, vous découvrirez les notions de base de la programmation : fonctions, boucles, variables... cela vous donnera un solide bagage sur lequel vous pourrez vous appuyer pour développer vos stratégies !
+
+> :snake: Une notion vous échappe ? Vous n'arrivez pas à comprendre un élément en particulier ou vous n'arrivez pas à le mettre en pratique ? Votre équipe de Cobras est toujours là pour vous aider :slight_smile:
+
+Maintenant que nous avons toutes les clés en main, attaquons-nous à notre première tâche : améliorons un peu notre poireau.
+
+Nous allons vous donner une première piste pour l'améliorer : actuellement, votre poireau se déplace vers l'ennemi si nécessaire, puis l'attaque avec son pistolet, mais **uniquement une fois par tour** !
+
+C'est dommage, vous n'utilisez pas tous les **points d'action** de votre poireau. Et si vous pouviez attaquer plusieurs fois par tour ? :thinking:
+
+> :bulb: Indice: vous pouvez utiliser une boucle pour répéter une action plusieurs fois. \
+> A l'aide d'une variable et de la fonction [getTotalTP](https://leekwars.com/help/documentation/getTotalTP), vous pourriez établir un compteur pour savoir s'il vous reste suffisamment de points d'action pour attaquer à nouveau !
+
+:wrench: Pour éviter d'avoir à tester votre code face à un vrai ennemi et donc de perdre des points et des combats inutilement, vous pouvez utiliser la fonctionnalité `Tester` disponible dans l'éditeur, vous permettant de lancer un combat factice contre une IA pré-programmée. Cela vous permet de voir si votre code fonctionne correctement !
+
+Une fois que tout est opérationnel, vous pouvez retourner dans l'arène et montrer à vos adversaires le pouvoir de la programmation ! :computer:
+
+Vous pouvez enchaîner quelques combats, profiter de vos victoires puis vous repentir et réfléchir à de nouvelles façons d'améliorer votre poireau. Et c'est dans cette optique que nous attaquons la prochaine étape !
 
 ## Étape 4 : Montée de niveau rime avec nouveaux pouvoirs ❤️‍🔥
 
