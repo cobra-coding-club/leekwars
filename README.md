@@ -46,7 +46,7 @@ Au centre de l'écran, nous pouvons retrouver une synthèse de notre poireau et 
 
 Nous voyons également notre inventaire : nous possédons actuellement une arme, notre bon vieux `pistolet` ! 🔫
 
-Enfin, à gauche de l'écran, il existe différents boutons : `Editeur`, `Potager` et `Marché` sont les plus importants et sont ceux dans lesquels vous passerez le plus de temps :smile:
+Enfin, à gauche de l'écran, il existe différents boutons : `Editeur`, `Potager` et `Marché` sont les plus importants et sont ceux dans lesquels vous passerez le plus de temps 😄
 
 > 💡 Nous vous conseillons de visiter les différentes pages du jeu pour vous familiariser avec l'interface. Vous y découvrirez peut-être déjà quelques fonctionnalités de LeekWars que nous n'avons pas encore expliqué...
 
@@ -134,7 +134,7 @@ Vous vous souvenez quand je vous disais que vos vous pouviez améliorer la quant
 
 Grâce à ces exercices, vous découvrirez les notions de base de la programmation : fonctions, boucles, variables... cela vous donnera un solide bagage sur lequel vous pourrez vous appuyer pour développer vos stratégies !
 
-> 🐍 Une notion vous échappe ? Vous n'arrivez pas à comprendre un élément en particulier ou vous n'arrivez pas à le mettre en pratique ? Votre équipe de Cobras est toujours là pour vous aider :slight_smile:
+> 🐍 Une notion vous échappe ? Vous n'arrivez pas à comprendre un élément en particulier ou vous n'arrivez pas à le mettre en pratique ? Votre équipe de Cobras est toujours là pour vous aider 😄
 
 Maintenant que nous avons toutes les clés en main, attaquons-nous à notre première tâche : améliorons un peu notre poireau.
 
