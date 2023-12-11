@@ -24,7 +24,7 @@ Cliquez sur le bouton "S'inscrire" (ou `Sign Up`) en haut à droite de la page.
 
 Renseignez ensuite le nom de votre poireau, et ajoutez des éléments de personnalisation à votre guise. Vous pouvez par exemple changer la couleur des feuilles de votre poireau et lui ajouter un chapeau 🎩
 
-## Etape 1 : Jettons un oeil à l'interface
+## Étape 1 : Jettons un oeil à l'interface
 
 Nous voici désormais sur un magnifique interface ! Voyons voir ce qu'on a là...
 
@@ -35,7 +35,7 @@ En haut à droite de l'écran, nous avons diverses informations utiles.
 - En premier lieu, nous voyons notre monnaie : cette ressource sera très utile pour améliorer son poireau par la suite ! Elle s'acquiert en gagnant des combats.
 - A coté de la monnaie, nous voyons notre rang. Il s'agit d'un score qui augmente à chaque fois que votre poireau gagne un combat, et qui diminue à chaque fois qu'il en perd un. Plus votre rang est élevé, plus vous affronterez des adversaires coriaces. 
 
-> :bulb: Cela s'apparente à un système de `MMR` ! Vous pouvez en apprendre plus [ici](https://hitmarker.net/what-does-mmr-mean#:~:text=Matchmaking%20Rating%2C%20or%20'MMR',and%20achieved%20a%20minimum%20MMR).
+> 💡 Cela s'apparente à un système de `MMR` ! Vous pouvez en apprendre plus [ici](https://hitmarker.net/what-does-mmr-mean#:~:text=Matchmaking%20Rating%2C%20or%20'MMR',and%20achieved%20a%20minimum%20MMR).
 
 - Les deux icônes à droite sont la boite aux lettres et les notifications, et l'icone à gauche permet d'accéder aux paramètres.
 - Enfin, le bouton `Profil` permet d'accéder à votre page de profil, où vous pouvez ajouter différentes informations sur vous-même.
@@ -44,7 +44,7 @@ En haut à droite de l'écran, nous avons diverses informations utiles.
 
 Au centre de l'écran, nous pouvons retrouver une synthèse de notre poireau et de nos statistiques, mais nous pouvons également les améliorer !
 
-Nous voyons également notre inventaire : nous possédons actuellement une arme, notre bon vieux `pistolet` ! :gun:
+Nous voyons également notre inventaire : nous possédons actuellement une arme, notre bon vieux `pistolet` ! 🔫
 
 Enfin, à gauche de l'écran, il existe différents boutons : `Editeur`, `Potager` et `Marché` sont les plus importants et sont ceux dans lesquels vous passerez le plus de temps :slight_smile:
 
@@ -58,9 +58,9 @@ Pour faire court, votre poireau possède un niveau (il commence au niveau 1), et
 
 Assez lu ? Ca tombe bien, tous dans le ring maintenant !
 
-## Etape 2 : Lançons nos premiers combats
+## Étape 2 : Lançons nos premiers combats
 
-Passons sans plus tarder aux combats, ce pourquoi nous sommes tous ici (et la programmation aussi, évidemment. Mais surtout les combats) :crossed_swords:
+Passons sans plus tarder aux combats, ce pourquoi nous sommes tous ici (et la programmation aussi, évidemment. Mais surtout les combats) ⚔️
 
 Rendez vous dans la section `Potager`. Vous devriez voir apparaitre votre poireau, ainsi que d'autres poireaux en dessous de celui-ci. Ce sont vos adversaires ! Cliquez sur n'importe lequel d'entre eux pour lancer un combat !
 
@@ -68,33 +68,33 @@ Une fenêtre s'ouvre alors. Vous pouvez observer le combat entre vous et votre a
 
 ![Combat](./assets/combat.png)
 
-> :bulb: Vous avez accès à différentes informations sur cet écran, en plus de voir le combat. Cela pourra vous être très utile lorsque vous commencerez à améliorer le programme de votre poireau !
+> 💡 Vous avez accès à différentes informations sur cet écran, en plus de voir le combat. Cela pourra vous être très utile lorsque vous commencerez à améliorer le programme de votre poireau !
 
 Tour à tour, nous voyons les actions de notre poireau et de celui de notre ennemi s'effectuer : on voit qu'ils se rapprochent jusqu'à être à une distance assez proche, puis s'échangent des coups jusqu'à ce que mort s'en suive.
 
-Vous avez gagné ? Félicitations ! :trophy: \
-Vous avez perdu ? Dommage... :cry:
+Vous avez gagné ? Félicitations ! 🏆 \
+Vous avez perdu ? Dommage... 😢
 
 Ce que ce combat vous a surtout appris, c'est une nouvelle notion du jeu : le mouvement et les actions.
 
-> :bulb: De base, votre poireau possède 3 points de mouvement et 10 points d'action. \
+> 💡 De base, votre poireau possède 3 points de mouvement et 10 points d'action. \
 > Cela signifie qu'il peut se déplacer de 3 cases par tour, et effectuer des actions valant un total de 10 points maximum. Chaque action possède son nombre de points requis !
 
 Il est très important d'**observer** le comportement de votre poireau : cela vous aidera à comprendre son comportement. 
 
-Lorsqu'une situation ne se passe pas comme prévu, vous pourrez vous baser sur ce que vous avez vu pour essayer de déterminer le problème (indice : il viendra très certainement de votre code :thinking:)
+Lorsqu'une situation ne se passe pas comme prévu, vous pourrez vous baser sur ce que vous avez vu pour essayer de déterminer le problème (indice : il viendra très certainement de votre code 🤔)
 
-En plus de l'évolution de votre rang, votre combat vous octroie différentes récompenses, et ce même si vous perdez. Ne vous inquiétez pas, ce premier combat vous est bénéfique même si vous ne l'avez pas gagné. :wink:
+En plus de l'évolution de votre rang, votre combat vous octroie différentes récompenses, et ce même si vous perdez. Ne vous inquiétez pas, ce premier combat vous est bénéfique même si vous ne l'avez pas gagné. 😉
 
 Jetons un oeil à l'interface suivant :
 
 ![Summary](./assets/summary.png)
 
-J'ai perdu :cry: mais cela ne m'a pas empêhé de gagner des Habs, la monnaie dont on parlait tout à l'heure ! :dollar:
+J'ai perdu 😢 mais cela ne m'a pas empêhé de gagner des Habs, la monnaie dont on parlait tout à l'heure ! 💵
 
 En revanche, mon poireau n'a pas gagné beaucoup d'expérience. Il faudra gagner le combat pour cela !
 
-> :trophy: J'ai également gagné des trophées. Ces derniers sont des succès que vous pouvez gagner en accomplissant différentes actions dans le jeu. \
+> 🏆 J'ai également gagné des trophées. Ces derniers sont des succès que vous pouvez gagner en accomplissant différentes actions dans le jeu. \
 > Leur utilité principale ? Aucune, si ce n'est le **flex** bien sûr !
 
 Nous pourrions nous amuser à lancer des combats en boucle de la sorte, jusqu'à ce que notre poireau finisse par gagner ou monter de niveau. Mais on ne vous conseille pas de faire cela sans toucher au **programme** de votre poireau, et ce pour deux raisons :
@@ -102,9 +102,9 @@ Nous pourrions nous amuser à lancer des combats en boucle de la sorte, jusqu'à
 - Même si vous gagnez les premiers combats, vous allez vite vous mesurer à des poireaux dont les programmes ont été modifiés. Et n'oubliez pas : le premier challenge est de réussir à contrer la stratégie de base de votre poireau, c'est donc ce sur quoi seront spécialisés vos adversaires ! Coriace...
 - Vous n'avez droit qu'à **100 combats**. Cette limite se régénère avec le temps (ou en achetant avec vos *Habs*), mais ce seront peut-être vos seuls combats de la journée, ce serait dommage de les gaspiller !
 
-Apprenons à triompher de nos ennemis avant de retourner dans le potager. Et pour cela, rentrons dans le vif du sujet : la **programmation** ! :heart:
+Apprenons à triompher de nos ennemis avant de retourner dans le potager. Et pour cela, rentrons dans le vif du sujet : la **programmation** ! ❤️
 
-## Etape 3 : Modifions le programme de notre poireau
+## Étape 3 : Modifions le programme de notre poireau
 
 Rendez-vous dans la section `Editeur`. Vous devriez voir une page qui ressemble à celle-ci :
 
@@ -118,11 +118,11 @@ Observons ce que nous avons là :
 - Les instructions en-dessous, aussi appelés **fonctions**, sont des représentations des différentes actions que va effectuer votre poireau. Par exemple, la fonction `moveToward` permet de se déplacer vers un ennemi, et la fonction `setWeapon` permet à votre poireau de changer d'arme.
 - Nous retrouvons également une **variable**, créée à l'aide du mot `let`. Cette variable contient votre ennemi ! Lorsque vous la passez à `moveToward`, cela permet d'indiquer à votre poireau que vous souhaitez qu'il avance vers votre ennemi le plus proche.
 
-> :bulb: Vous pouvez passer votre souris sur les différentes fonctions et mot-clés afin d'obtenir plus d'informations, tels qu'une explication de la fonction ou d'indices vous permettant d'améliorer votre code. \
+> 💡 Vous pouvez passer votre souris sur les différentes fonctions et mot-clés afin d'obtenir plus d'informations, tels qu'une explication de la fonction ou d'indices vous permettant d'améliorer votre code. \
 > Qui sait, peut-être que les créateurs du site ont pensé à tout, et qu'ils ont caché dans ces indices des astuces pour améliorer votre code...
 
-> Nous obtenons ici des liens très utiles, contenant différentes informations à propos des règles du jeu, du langage de programmation de LeekWars (le LeekScript ! :green_apple:) ainsi que des différentes fonctions que nous avons à notre disposition. \
-> Vu que ces liens sont en anglais, voici leurs équivalents français ! :flag_fr: Ce sera sans doute plus simple comme ça :wink:
+> Nous obtenons ici des liens très utiles, contenant différentes informations à propos des règles du jeu, du langage de programmation de LeekWars (le LeekScript ! 🍏) ainsi que des différentes fonctions que nous avons à notre disposition. \
+> Vu que ces liens sont en anglais, voici leurs équivalents français ! :flag_fr: Ce sera sans doute plus simple comme ça 😉
 > - [Découvrir le LeekScript](https://leekwars.com/encyclopedia/fr/Tutoriel)
 > - [Documentation](https://leekwars.com/help/documentation)
 
@@ -130,20 +130,20 @@ Observons ce que nous avons là :
 
 Grâce à ces exercices, vous découvrirez les notions de base de la programmation : fonctions, boucles, variables... cela vous donnera un solide bagage sur lequel vous pourrez vous appuyer pour développer vos stratégies !
 
-> :snake: Une notion vous échappe ? Vous n'arrivez pas à comprendre un élément en particulier ou vous n'arrivez pas à le mettre en pratique ? Votre équipe de Cobras est toujours là pour vous aider :slight_smile:
+> 🐍 Une notion vous échappe ? Vous n'arrivez pas à comprendre un élément en particulier ou vous n'arrivez pas à le mettre en pratique ? Votre équipe de Cobras est toujours là pour vous aider :slight_smile:
 
 Maintenant que nous avons toutes les clés en main, attaquons-nous à notre première tâche : améliorons un peu notre poireau.
 
 Nous allons vous donner une première piste pour l'améliorer : actuellement, votre poireau se déplace vers l'ennemi si nécessaire, puis l'attaque avec son pistolet, mais **uniquement une fois par tour** !
 
-C'est dommage, vous n'utilisez pas tous les **points d'action** de votre poireau. Et si vous pouviez attaquer plusieurs fois par tour ? :thinking:
+C'est dommage, vous n'utilisez pas tous les **points d'action** de votre poireau. Et si vous pouviez attaquer plusieurs fois par tour ? 🤔
 
-> :bulb: Indice: vous pouvez utiliser une boucle pour répéter une action plusieurs fois. \
+> 💡 Indice: vous pouvez utiliser une boucle pour répéter une action plusieurs fois. \
 > A l'aide d'une variable et de la fonction [getTotalTP](https://leekwars.com/help/documentation/getTotalTP), vous pourriez établir un compteur pour savoir s'il vous reste suffisamment de points d'action pour attaquer à nouveau !
 
-:wrench: Pour éviter d'avoir à tester votre code face à un vrai ennemi et donc de perdre des points et des combats inutilement, vous pouvez utiliser la fonctionnalité `Tester` disponible dans l'éditeur, vous permettant de lancer un combat factice contre une IA pré-programmée. Cela vous permet de voir si votre code fonctionne correctement !
+🔧 Pour éviter d'avoir à tester votre code face à un vrai ennemi et donc de perdre des points et des combats inutilement, vous pouvez utiliser la fonctionnalité `Tester` disponible dans l'éditeur, vous permettant de lancer un combat factice contre une IA pré-programmée. Cela vous permet de voir si votre code fonctionne correctement !
 
-Une fois que tout est opérationnel, vous pouvez retourner dans l'arène et montrer à vos adversaires le pouvoir de la programmation ! :computer:
+Une fois que tout est opérationnel, vous pouvez retourner dans l'arène et montrer à vos adversaires le pouvoir de la programmation ! 💻
 
 Vous pouvez enchaîner quelques combats, profiter de vos victoires puis vous repentir et réfléchir à de nouvelles façons d'améliorer votre poireau. Et c'est dans cette optique que nous attaquons la prochaine étape !
 
